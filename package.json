@@ -1,0 +1,25 @@
+{
+  "name": "mongoDB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "use-mongoose.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naeemmusamh/mongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naeemmusamh/mongoDB/issues"
+  },
+  "homepage": "https://github.com/naeemmusamh/mongoDB#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9"
+  }
+}
